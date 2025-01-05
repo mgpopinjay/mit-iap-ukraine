@@ -127,7 +127,7 @@ A working list of reading & reference material related to Influence Operations (
 ## Data
 
 #### Representation
-[*Standardizing Cyber Threat Intelligence Information*](https://www.mitre.org/news-insights/publication/standardizing-cyber-threat-intelligence-information-structured-threat)
+[Standardizing Cyber Threat Intelligence Information](https://www.mitre.org/news-insights/publication/standardizing-cyber-threat-intelligence-information-structured-threat)
 
 [Meta Threat Research Indicators](https://github.com/facebook/threat-research)
 
