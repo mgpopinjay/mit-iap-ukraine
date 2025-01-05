@@ -43,7 +43,8 @@ A working list of reading & reference material related to Influence Operations (
 #### Impact Quantification 
 
 [Exposing the Obscured Influence of State-Controlled Media via Causal Inference of Quotation Propagation](https://www.science.org/doi/10.1126/sciadv.abo6254)
-[Causal Influence Pathway Quantification](https://github.com/mgpopinjay/mit-iap-ukraine/blob/main/How_to_See_1000_Images.pdf.pdf)
+
+[Causal Influence Pathway Quantification](https://github.com/mgpopinjay/mit-iap-ukraine/blob/main/How_to_See_1000_Images.pdf)
 
 [Differences in misinformation sharing can lead to politically asymmetric sanctions](https://www.bing.com/search?q=Differences+in+misinformation+sharing+can+lead+to+politically+asymmetric+sanction&PC=U316&FORM=CHROMN#:~:text=Differences%20in%20misinformation%20sharing%20can%20lead%20to%20%E2%80%A6)
 
