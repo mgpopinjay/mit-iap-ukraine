@@ -76,7 +76,7 @@ A working list of reading & reference material related to Influence Operations (
 
 [Nudge-based misinformation interventions are effective in information environments with low misinformation prevalence](https://link.springer.com/article/10.1038/s41598-024-62286-7?fromPaywallRec=false)
 
-#### Policy#### 
+#### Policy
 
 [Countering Disinformation Effectively](https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide?lang=en)
 
