@@ -137,8 +137,9 @@ A working list of reading & reference material related to Influence Operations (
 #### Sources
 
 [OSINT Ukraine](https://osintukraine.com/)
-
 [BlueSky Datasets](https://zenodo.org/records/11082879)
+[The 2024 Election Integrity Initiative](https://election-integrity.online/datasets/)
+
 
 #### Simulation
 [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://github.com/camel-ai/camel)
