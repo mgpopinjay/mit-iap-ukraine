@@ -161,6 +161,7 @@ A working list of reading & reference material related to Influence Operations (
 [DoubleThink Lab](https://doublethinklab.org/)
 
 <br/>
+
 ## Research Groups
 
 [David Rand & Gordon Pennycook](https://docs.google.com/document/d/e/2PACX-1vTJ_dULSBSyvFavXzMmxWFPWkRtExYnpuetpZAFsxlqdI2WS8Cqtv9rWqgEHNoyLMa1Mr7deZAmv74B/pub)
