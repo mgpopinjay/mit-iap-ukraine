@@ -141,8 +141,8 @@ A working list of reading & reference material related to Influence Operations (
 [BlueSky Datasets](https://zenodo.org/records/11082879)
 
 #### Simulation
-[Camel AI](https://github.com/camel-ai/camel)
-
+[CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://github.com/camel-ai/camel)
+[OASIS: Open Agents Social Interaction Simulations on One Million Agents](https://github.com/camel-ai/oasis)
 
 <br/>
 
