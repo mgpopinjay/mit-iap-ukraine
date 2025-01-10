@@ -135,14 +135,16 @@ A working list of reading & reference material related to Influence Operations (
 [Telegram crawling](https://docs.telethon.dev/en/stable/)
 
 #### Sources
-
 [OSINT Ukraine](https://osintukraine.com/)
+
 [BlueSky Datasets](https://zenodo.org/records/11082879)
+
 [The 2024 Election Integrity Initiative](https://election-integrity.online/datasets/)
 
 
 #### Simulation
 [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://github.com/camel-ai/camel)
+
 [OASIS: Open Agents Social Interaction Simulations on One Million Agents](https://github.com/camel-ai/oasis)
 
 <br/>
