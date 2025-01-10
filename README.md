@@ -140,6 +140,10 @@ A working list of reading & reference material related to Influence Operations (
 
 [BlueSky Datasets](https://zenodo.org/records/11082879)
 
+#### Simulation
+[Camel AI](https://github.com/camel-ai/camel)
+
+
 <br/>
 
 ## NGO & Start-ups
