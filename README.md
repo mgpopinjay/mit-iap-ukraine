@@ -131,6 +131,9 @@ A working list of reading & reference material related to Influence Operations (
 
 [Meta Threat Research Indicators](https://github.com/facebook/threat-research)
 
+#### Tools
+[Telegram crawling](https://docs.telethon.dev/en/stable/)
+
 #### Sources
 
 [OSINT Ukraine](https://osintukraine.com/)
@@ -155,5 +158,6 @@ A working list of reading & reference material related to Influence Operations (
 
 <br/>
 ## Research Groups
+
 [David Rand & Gordon Pennycook](https://docs.google.com/document/d/e/2PACX-1vTJ_dULSBSyvFavXzMmxWFPWkRtExYnpuetpZAFsxlqdI2WS8Cqtv9rWqgEHNoyLMa1Mr7deZAmv74B/pub)
 
