@@ -82,7 +82,7 @@ A working list of reading & reference material related to Influence Operations (
 
 #### Bridging Systems 
 
-[Bridging Systems: Open Problems for Countering Destructive Divisiveness across Ranking, Recommenders, and Governance](https://arxiv.org/abs/2301.09976)
+[🔖Bridging Systems: Open Problems for Countering Destructive Divisiveness across Ranking, Recommenders, and Governance](https://knightcolumbia.org/content/bridging-systems)
 
 <br/>
 
