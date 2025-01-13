@@ -4,6 +4,11 @@
 
 A working list of reading & reference material related to Influence Operations (IOs) for the Winter ‘25 IAP session “Build for Ukraine”.
 
+Contributors:
++ Yara Kyrychenko
++ Nina Lutz
++ Phil Tinn
+
 ## Theories, Frameworks & Surveys
 
 [Facts, frames, and (mis)interpretations: Understanding rumors as collective sensemaking](https://www.cip.uw.edu/2023/12/06/rumors-collective-sensemaking-kate-starbird/)
